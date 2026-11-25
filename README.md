@@ -5,7 +5,7 @@
 [View the bounty](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
 
 > A toaster is like a tiny sunbed for bread: it lies down, soaks up heat, and pops up brown when it has had enough.
-> The comparison works because heat browns both skin and bread, but it leaves out that bread never chooses when it is done — the toaster decides.
+> The comparison works because heat turns both brown, but it leaves out that bread never chooses when it is done — the toaster decides.
 
 ## Run
 
